@@ -1,0 +1,8 @@
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\bin\Debug\WordDocumentAnalysis.dll
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\bin\Debug\WordDocumentAnalysis.pdb
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\bin\Debug\Xceed.Document.NET.dll
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\bin\Debug\Xceed.Words.NET.dll
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\obj\Debug\WordDocumentAnalysis.csproj.CoreCompileInputs.cache
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\obj\Debug\WordDocumentAnalysis.csproj.CopyComplete
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\obj\Debug\WordDocumentAnalysis.dll
+D:\Курсовая\LibraryDOC\WordDocumentAnalysis\obj\Debug\WordDocumentAnalysis.pdb

@@ -1,0 +1,15 @@
+D:\Курсовая\1\1\Sowt\Sowt\bin\Debug\Sowt.exe.config
+D:\Курсовая\1\1\Sowt\Sowt\bin\Debug\Sowt.exe
+D:\Курсовая\1\1\Sowt\Sowt\bin\Debug\Sowt.pdb
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.csprojAssemblyReference.cache
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.Properties.Resources.resources
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.csproj.GenerateResource.cache
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.csproj.CoreCompileInputs.cache
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.exe
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.pdb
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.MainController.resources
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.csproj.CopyComplete
+D:\Курсовая\1\1\Sowt\Sowt\bin\Debug\Sowt.exe.manifest
+D:\Курсовая\1\1\Sowt\Sowt\bin\Debug\Sowt.application
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.exe.manifest
+D:\Курсовая\1\1\Sowt\Sowt\obj\Debug\Sowt.application

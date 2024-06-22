@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sowt", "Sowt.csproj", "{C1C8F9ED-3D29-4480-A565-A17DF045D2DA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{E19A7A51-83FD-46CF-B62A-7FF94EB0BA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1C8F9ED-3D29-4480-A565-A17DF045D2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1C8F9ED-3D29-4480-A565-A17DF045D2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1C8F9ED-3D29-4480-A565-A17DF045D2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1C8F9ED-3D29-4480-A565-A17DF045D2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19A7A51-83FD-46CF-B62A-7FF94EB0BA18}.Debug|Any CPU.ActiveCfg = Debug
+		{E19A7A51-83FD-46CF-B62A-7FF94EB0BA18}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956AE1B7-12DC-4021-9AF6-ECDCFD3F6407}
+	EndGlobalSection
+EndGlobal
